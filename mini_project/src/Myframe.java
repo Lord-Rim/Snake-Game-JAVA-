@@ -189,7 +189,6 @@ public class Myframe extends JFrame implements KeyListener, ActionListener {
     @Override
     public void keyPressed(KeyEvent e) {
         //checks of the keys pressed are the ones needed
-        System.out.println(e.getKeyCode());
         if(e.getKeyChar() == 'w' || e.getKeyCode() == 38){
             if(direction !=3 && move_allow == 1){
                 direction = 0;
