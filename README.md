@@ -13,7 +13,7 @@ Nokia Snake Game, but built using Java. This version was made to test my skills 
 
 ## 📷**SCREENSHOT OF THE GAMEPLAY**
 
-![Game Screenshot](images/20250314112838.png)
+![Game Screenshot](Pasted image 20250314112838.png)
 
 ## **📜 Controls**
 
